@@ -5,3 +5,4 @@ kto chodzi na zakupy?
 kto sie uczy w szkole ?
 Adas sie uczy najlepiej
 Szkoła
+Polska
