@@ -6,3 +6,4 @@ kto sie uczy w szkole ?
 Adas sie uczy najlepiej
 Szkoła
 Polska
+public class book
