@@ -7,3 +7,5 @@ Adas sie uczy najlepiej
 Szkoła
 Polska
 public class book
+Kwiat
+Orzech
