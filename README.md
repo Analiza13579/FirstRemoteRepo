@@ -6,8 +6,3 @@ kto sie uczy w szkole ?
 Adas sie uczy najlepiej
 Szkoła
 Polska
-public class book
-Kwiat
-Orzech
-Public String Titel
-Public String Description
