@@ -1,5 +1,4 @@
 # paragon z warzywniaka
-
 kto jest najlepszym comiterem? Ja
 Kto jest najlepszym programistš ?
 kto chodzi na zakupy?
@@ -13,3 +12,4 @@ Public Strine Title
 Public Strine description
 Encyclopedy
 Fatima
+Polska
