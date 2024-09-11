@@ -8,3 +8,8 @@ Szkoła
 Polska
 Kwiat
 Orzech
+Public strine title
+public strine description
+
+
+Polska
